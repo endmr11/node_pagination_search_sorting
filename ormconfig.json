@@ -1,0 +1,13 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "passowrd": "",
+  "database": "node_search_pagination",
+  "entities": [
+    "src/entity/*.ts"
+  ],
+  "logging": true,
+  "synchronize": true
+}
